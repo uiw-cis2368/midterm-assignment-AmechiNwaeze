@@ -1,0 +1,27 @@
+.charactertitle {
+    color: goldenrod;
+    background-color: slateblue;
+    font-family: fantasy;
+}
+
+.description {
+    color: lawngreen;
+    border-style: dashed;
+    border-color: orangered;
+    background-color: rgb(0, 42, 255);
+    border-width: 5px;
+}
+
+.wholepage {
+
+    background-color: black;
+    color: aliceblue;
+}
+
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: lightsalmon;
+    background-color: lawngreen;
+}
+
